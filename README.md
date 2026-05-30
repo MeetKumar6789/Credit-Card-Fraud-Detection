@@ -96,6 +96,6 @@ This project successfully detected fraudulent credit card transactions using Mac
 
 ## Author
 
-Parth Mavani
+Meet Nakarani
 
 CODSOFT Data Science Internship
